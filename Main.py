@@ -54,4 +54,5 @@ def main(src,dst):
 
 
     if count == len(images):
+        print('')
         print('success!')
