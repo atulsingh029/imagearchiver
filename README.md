@@ -13,7 +13,7 @@ git clone https://github.com/atulsingh029/imagearchiver.git
 cd imagearchiver
 ```
 ```
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 
 ### Usage
