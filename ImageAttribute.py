@@ -1,5 +1,5 @@
-#  Author : Atul Singh
-#  Email    : atulsingh29@protonmail.com
+#  Author  : Atul Singh
+#  Email   : atulsingh29@protonmail.com
 #  Github  : https://github.com/atulsingh029
 
 import os
